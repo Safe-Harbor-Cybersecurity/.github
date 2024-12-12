@@ -4,7 +4,8 @@ SafeHarbor is an open-source security and infrastructure tooling project that pr
 ## Directory Structure
 ```
 github.com/safe-harbor-cybersecurity/
-├── security-monitor/    (Service monitoring system)
+├── security-monitor/   (Infrastructure monitoring) 
 ├── defense-waf/        (Web Application Firewall)
+├── monitor-alert/      (Service monitoring system)
 └── load-guardian/      (DDoS-protected load balancer)
 ```
