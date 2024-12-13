@@ -7,6 +7,6 @@ github.com/Safe-Harbor-Cybersecurity/
 ├── security-monitor/   (Infrastructure monitoring) 
 ├── defense-waf/        (Web Application Firewall)
 ├── monitor-alert/      (Service monitoring system)
-├── Linux-file-monitor/ (Linux file monitoring system)
+├── linux-file-monitor/ (Linux file monitoring system)
 └── load-guardian/      (DDoS-protected load balancer)
 ```
